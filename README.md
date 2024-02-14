@@ -1,6 +1,6 @@
 # CN436-AS2
 6410615030 Natiphon Chanphet
-[Demo Clip]()
+[Demo Clip](https://youtu.be/Go49A5Fi0MM)
 
 # Slide Number Puzzle
 ## About the Game
@@ -10,26 +10,24 @@ This game is called Puzzle 15, where the player is presented with a grid of numb
 ### How to play
 
 * The game will initially display a scrumbled grid of numbered tiles.
-<div style="text-align: center;">
-    <img src="media/startGame.jpg" width = 50%>
-</div>
+
+<img src="media/startGame.jpg" width = 30%>
+
 
 * The player can slide the tiles horizontally or vertically to move them into the empty space and rearrange them. Each move will be counted and shown on the screen.
 
-<div style="text-align: center;">
-    <img src="media/whilePlaying.jpg" width = 50%>
-</div>
+
+<img src="media/whilePlaying.jpg" width = 30%>
+
 
 
 * When the player successfully arranges all the tiles in numerical order from 1 to 15, with the empty space in the bottom right corner, the game is won. It will display a message congratulating the player on their victory. After clicking OK, the game will restart.
 
-<div style="text-align: center;">
-    <img src="media/wonGame.jpg" width = 50%>
-</div>
+<img src="media/wonGame.jpg" width = 30%>
+
 
 * The player can click the "New Game" button to restart the puzzle and start again. The tiles will be shuffled, and the total number of moves will reset to 0.
 
-<div style="text-align: center;">
-    <img src="media/newGame.jpg" width = 50%>
-</div>
+<img src="media/newGame.jpg" width = 30%>
+
 
