@@ -42,9 +42,7 @@ struct ContentView: View {
                     Text("Moves")
                     Text("\(viewModel.countMove)")
                 }.padding()
-//                 .background(Color.black)
                  .cornerRadius(12)
-//                 .foregroundColor(.white)
                  .font(.custom("HelveticaNeue-Bold", size: 17))
                 
             }

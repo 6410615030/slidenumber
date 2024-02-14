@@ -11,7 +11,7 @@ struct Puzzle15GameModel<TileContentType: Equatable> {
     private(set) var tiles: Array<Tile>
     private(set) var spaceIndex: Int
     private(set) var countMove: Int = 0
-//    private(set) var showWin = false
+
 
     
     init(total: Int, tileContentFactory: (Int) -> TileContentType) {
@@ -33,9 +33,7 @@ struct Puzzle15GameModel<TileContentType: Equatable> {
             spaceIndex = chosenIndex
             countMove += 1
             
-//            if isWon() {
-//                showWin = true
-//            }
+
         }
     }
     
